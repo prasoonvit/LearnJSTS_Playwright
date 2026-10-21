@@ -1,0 +1,23 @@
+{
+  "name": "learnjsts_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/prasoonvit/LearnJSTS_Playwright#readme",
+  "bugs": {
+    "url": "https://github.com/prasoonvit/LearnJSTS_Playwright/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasoonvit/LearnJSTS_Playwright.git"
+  },
+  "license": "ISC",
+  "author": "Prasoon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
